@@ -1,0 +1,20 @@
+version: 2
+tpsheetFileNames:
+- Assets/-----Art/Player/Player_Attack_Idel.tpsheet
+- Assets/-----Art/Player/Player_Attack_Walk.tpsheet
+- Assets/-----Art/Player/Player_Idel.tpsheet
+- Assets/-----Art/Player/Player_Walk.tpsheet
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/-----Art/Player/Player_Attack_Idel.png
+- Assets/-----Art/Player/Player_Attack_Walk.png
+- Assets/-----Art/Player/Player_Idel.png
+- Assets/-----Art/Player/Player_Walk.png
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e79008e31bc1f94e83659fdfdf8de1b, type: 3}
+  m_Name: Taiwan Broom _PWeapon
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7754965874392126244, guid: 6c812ca33368a6e42bdab9c27a76607c, type: 3}
+  ID: 2
+  Name: Taiwan Broom
+  type: 2
+  Nutrition: 1
+  Usable: 1
+  image: {fileID: 21300000, guid: 14bf59753e463bc4f837b298b36ed972, type: 3}
+  Description: Des_Taiwan Broom
+  Damage: 3
+  cooldownTime: 2
+  audio_Attack: {fileID: 8300000, guid: bb8018c16c2618e46a1e65d46420e3c4, type: 3}
+  audio_Hit: {fileID: 8300000, guid: c6c30808d0352d94c99e5732d76db652, type: 3}
+  weaponPrefab: {fileID: 4305257487440868528, guid: a58bc103831630349a09b023b4eca12e, type: 3}

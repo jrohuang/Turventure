@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - ItemGameobject
+  - FxTemporaire
+  - Turtle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacle
+  - Monster
+  - Monster_Weopon
+  - Player_Weapon
+  - PickableItem
+  - Turtle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scene
+    uniqueID: 2276221905
+    locked: 0
+  - name: Monster
+    uniqueID: 708555101
+    locked: 0
+  - name: Player
+    uniqueID: 485954035
+    locked: 0
+  - name: Highest
+    uniqueID: 2744101965
+    locked: 0
+  - name: Scene_NoLight
+    uniqueID: 1696110305
+    locked: 0

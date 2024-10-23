@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 9e998e013d2675f4abf859b484520c79
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiantRoach_Idel (1)
+      rect:
+        serializedVersion: 2
+        x: 6166
+        y: 3027
+        width: 1211
+        height: 1742
+      alignment: 9
+      pivot: {x: 0.50536746, y: 0.5189437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48467f96c2a963c4cba44823ec026253
+      internalID: -844180998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (10)
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1234
+        width: 1289
+        height: 1791
+      alignment: 9
+      pivot: {x: 0.5352987, y: 0.50474596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9ff717a94469a4b86d94bc12e302dc
+      internalID: -1291980422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (11)
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 1227
+        width: 1238
+        height: 1798
+      alignment: 9
+      pivot: {x: 0.51615506, y: 0.50278085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d10600ce7b18b4e96546eb2c79616f
+      internalID: 53075058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (12)
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1297
+        width: 1211
+        height: 1775
+      alignment: 9
+      pivot: {x: 0.50536746, y: 0.50929576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e53f75574a27e4183dad273c7f1c69
+      internalID: 2146965920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (13)
+      rect:
+        serializedVersion: 2
+        x: 4953
+        y: 3027
+        width: 1211
+        height: 1742
+      alignment: 9
+      pivot: {x: 0.50536746, y: 0.5189437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76373c2d8781d574aa7191fd99bae483
+      internalID: -692428944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (14)
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 3057
+        width: 1211
+        height: 1736
+      alignment: 9
+      pivot: {x: 0.50536746, y: 0.52073735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7485172316ef41843b6543e1b59400ec
+      internalID: -2063874474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (15)
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 4785
+        width: 1220
+        height: 1732
+      alignment: 9
+      pivot: {x: 0.5090164, y: 0.52193993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60000a4c7cd11d74fb67da7bc03b2a53
+      internalID: 317635662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (16)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4811
+        width: 1271
+        height: 1715
+      alignment: 9
+      pivot: {x: 0.51534224, y: 0.5271137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53c7aceee9e9a4ead8f7fb8fe543cf
+      internalID: 1313620150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (17)
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 6519
+        width: 1249
+        height: 1672
+      alignment: 9
+      pivot: {x: 0.4923939, y: 0.54066986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a4772765dc501479113e6d49fc6c7c
+      internalID: -2115713127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (18)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6528
+        width: 1273
+        height: 1663
+      alignment: 9
+      pivot: {x: 0.48075414, y: 0.5435959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ded3d1ef36ad1419b460cd7cd64ab7
+      internalID: -695301036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (19)
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 4771
+        width: 1297
+        height: 1722
+      alignment: 9
+      pivot: {x: 0.47185814, y: 0.52497095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab62eb8897e7f4f940ab45df9724de
+      internalID: 1796818338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (2)
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 3046
+        width: 1211
+        height: 1737
+      alignment: 9
+      pivot: {x: 0.50536746, y: 0.52043754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec45f1b739d5d44298cde7c5903e0b2
+      internalID: 1551376777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (20)
+      rect:
+        serializedVersion: 2
+        x: 5051
+        y: 6495
+        width: 1276
+        height: 1696
+      alignment: 9
+      pivot: {x: 0.47962382, y: 0.5330189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bea10dafdd3348a2c13a0c75f1602
+      internalID: 356902152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (21)
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 4795
+        width: 1269
+        height: 1722
+      alignment: 9
+      pivot: {x: 0.49014974, y: 0.52497095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f004659bb046bf459d3a4ed4ca41429
+      internalID: 1062258789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (22)
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1264
+        width: 1289
+        height: 1791
+      alignment: 9
+      pivot: {x: 0.5352987, y: 0.50474596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf611d2ee29724c9f81ae8f210ce11
+      internalID: 62325126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (23)
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 1232
+        width: 1240
+        height: 1793
+      alignment: 9
+      pivot: {x: 0.51693547, y: 0.50418293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874bdddbeac2ffa48a9d583957c205c6
+      internalID: -801362453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (24)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1317
+        width: 1211
+        height: 1767
+      alignment: 9
+      pivot: {x: 0.50536746, y: 0.51160157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c2e05a4bd2c84ab8b4f370724f009
+      internalID: 1468548874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (3)
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3074
+        width: 1225
+        height: 1734
+      alignment: 9
+      pivot: {x: 0.5110204, y: 0.5213379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02bb4e2a0a9ea4494c017f6ef1651a
+      internalID: -1460496246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (4)
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 4810
+        width: 1271
+        height: 1715
+      alignment: 9
+      pivot: {x: 0.51534224, y: 0.5271137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d01389dcbc2c40a86dc14507c4744
+      internalID: 1216161896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (5)
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 6519
+        width: 1247
+        height: 1672
+      alignment: 9
+      pivot: {x: 0.4915798, y: 0.54066986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959ecc5583a49747b46a4d980c1a6fc
+      internalID: 122810532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (6)
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 6527
+        width: 1273
+        height: 1664
+      alignment: 9
+      pivot: {x: 0.48075414, y: 0.5438702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe7b69a7199ae4ab4a028de899cf31
+      internalID: 849661378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (7)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3086
+        width: 1297
+        height: 1722
+      alignment: 9
+      pivot: {x: 0.47185814, y: 0.52497095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ad6fb00bbc474aaacd2aa1e21dda3
+      internalID: 788176867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (8)
+      rect:
+        serializedVersion: 2
+        x: 6329
+        y: 6495
+        width: 1276
+        height: 1696
+      alignment: 9
+      pivot: {x: 0.47962382, y: 0.5330189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867bf87d1d2be70448b0058d8a010d7a
+      internalID: 711332837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Idel (9)
+      rect:
+        serializedVersion: 2
+        x: 6339
+        y: 4771
+        width: 1269
+        height: 1722
+      alignment: 9
+      pivot: {x: 0.49014974, y: 0.52497095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5019017767946934eac5795d7999cfa1
+      internalID: 1949297974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GiantRoach_Idel (24): 1468548874
+      GiantRoach_Idel (9): 1949297974
+      GiantRoach_Idel (13): -692428944
+      GiantRoach_Idel (15): 317635662
+      GiantRoach_Idel (14): -2063874474
+      GiantRoach_Idel (20): 356902152
+      GiantRoach_Idel (12): 2146965920
+      GiantRoach_Idel (4): 1216161896
+      GiantRoach_Idel (19): 1796818338
+      GiantRoach_Idel (6): 849661378
+      GiantRoach_Idel (7): 788176867
+      GiantRoach_Idel (8): 711332837
+      GiantRoach_Idel (18): -695301036
+      GiantRoach_Idel (16): 1313620150
+      GiantRoach_Idel (22): 62325126
+      GiantRoach_Idel (2): 1551376777
+      GiantRoach_Idel (1): -844180998
+      GiantRoach_Idel (3): -1460496246
+      GiantRoach_Idel (5): 122810532
+      GiantRoach_Idel (10): -1291980422
+      GiantRoach_Idel (17): -2115713127
+      GiantRoach_Idel (21): 1062258789
+      GiantRoach_Idel (11): 53075058
+      GiantRoach_Idel (23): -801362453
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

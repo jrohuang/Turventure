@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a17ed3d152ae24643801976faa2984b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - preset_TMPText: {fileID: 2655988077585873504, guid: c0149f7bfd50481409a8f4759502bab6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

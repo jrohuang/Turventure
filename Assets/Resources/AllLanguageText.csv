@@ -1,0 +1,44 @@
+﻿Language,English,Chinese
+Language,English,中文
+Game Setting,Game Setting,遊戲設定
+Restart Game,Restart Game,重新開始
+Resume Game,Resume,繼續遊戲
+Giant Roach,Giant Roach,巨型阿蟑
+Giant Roach Shell,Giant Roach Shell,巨型阿蟑的殼
+Test_Btn_1,Test_Btn_1,測試Btn1
+Test_Btn_2,Test_Btn_2,測試Btn2
+Des_Giant Roach Shell,(英)巨型阿蟑的殼描述...,巨型阿蟑的殼描述...
+Quantity,Quantity,數量
+Use,Use,使用
+Drop,Drop,丟棄
+MonsterDrop,Monster Drop,怪物掉落物
+Resource,Resource,資源
+Taiwan Broom,Taiwan Broom,台式掃把
+Weapon,Weapon,武器
+Des_Taiwan Broom,Des_Taiwan Broom,台式掃把描述...
+Sort By Time,Sort By Time,依時間排序
+Sort By Category,Sort By Category,依種類排序
+Items,Items,物品
+Category,Category,種類
+Item,Item,物品
+Unequip,Unequip,卸下
+Nutrition,Nutrition,營養
+Health,Health,生命值
+Growth,Growth,成長值
+Following,Following,跟隨
+Resting,Resting,休息
+Hiding,Hiding,躲藏
+Confirm,Confirm,確認
+Save and Exit,Save and Exit,儲存並退出
+Load Saved,Load Saved,讀取存檔
+New Game,New Game,新遊戲
+Load Save,Load Save,讀取存檔
+Starting a new game will overwrite the saved data. ,Starting a new game will overwrite the saved data. ,新遊戲
+Are you sure you want to continue?,Are you sure you want to continue?,開始新遊戲將會覆蓋存檔，確定要繼續嗎？
+Huge Roach,Huge Roach,大蟑螂
+Huge Roach Shell,Huge Roach Shell,大蟑螂殼
+Des_Machete,Des_Machete,開山刀描述……
+Machete,Machete,開山刀
+Loading,Loading,載入中
+Warning_OverwriteSaved,Starting a new game will overwrite the saved data. ,開啟新遊戲將會覆蓋先前的存檔，確定要繼續嗎？
+Feed,Feed,餵食

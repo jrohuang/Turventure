@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0df3cd23de2dd784aa34fd8dbeb5ed8c, type: 3}
+  m_Name: Huge Roach
+  m_EditorClassIdentifier: 
+  ID: 1
+  prefab: {fileID: 1791630395667058074, guid: b4881d2d06bf6bb4d88b9a4b1a9d7589, type: 3}
+  monsterName: Huge Roach
+  MaxHealth: 5
+  moveSpeed: 1.6
+  attackTarget: 0
+  attackTime: 1.4
+  Damage: 3
+  AudioClip_Attack: {fileID: 8300000, guid: 226b676952b7a4b44848fe4387255552, type: 3}
+  icon: {fileID: 9096474092471825850, guid: 19964857261b48448a487d40bd751c35, type: 3}

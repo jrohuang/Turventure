@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 5eccb72a121b8364993c7765537cea1b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiantRoach_Walk-0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1099
+        width: 1211
+        height: 1742
+      alignment: 9
+      pivot: {x: 0.50536746, y: 0.5189437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db0feeb478ee814e9c03ae3520e0847
+      internalID: -587680215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-1
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 6441
+        width: 1204
+        height: 1750
+      alignment: 9
+      pivot: {x: 0.5024917, y: 0.524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b4551eec34fa45b92cf038f5aff2a
+      internalID: 52109401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-10
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4645
+        width: 1203
+        height: 1756
+      alignment: 9
+      pivot: {x: 0.5311721, y: 0.4908884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6eef040b6802441a604040e3a8384e
+      internalID: -1959100461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-11
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 4724
+        width: 1159
+        height: 1715
+      alignment: 9
+      pivot: {x: 0.5150992, y: 0.49212828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613ccf23db24e44abfba30942ddf858
+      internalID: -1888082397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-12
+      rect:
+        serializedVersion: 2
+        x: 4876
+        y: 6537
+        width: 1104
+        height: 1654
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49334946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b2344bbc88d24cbf0ccc6e0467bac
+      internalID: -1316557584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-13
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 6515
+        width: 1160
+        height: 1676
+      alignment: 9
+      pivot: {x: 0.51551723, y: 0.50358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd8e1fd0f64876478dc49f6ab6d72fc
+      internalID: 187835995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-14
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 4799
+        width: 1185
+        height: 1690
+      alignment: 9
+      pivot: {x: 0.52405065, y: 0.5100592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af486e01392d6419b186de3829547f
+      internalID: 1252982569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-15
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 3135
+        width: 1271
+        height: 1662
+      alignment: 9
+      pivot: {x: 0.51534224, y: 0.5120337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911046cc8322824fbe6b8dbebf8f827
+      internalID: 1123776469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-16
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 4923
+        width: 1249
+        height: 1616
+      alignment: 9
+      pivot: {x: 0.4923939, y: 0.5247525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ca2da385ef7b4490511d0703b2e24
+      internalID: 117452216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-17
+      rect:
+        serializedVersion: 2
+        x: 6277
+        y: 1662
+        width: 1229
+        height: 1612
+      alignment: 9
+      pivot: {x: 0.46216437, y: 0.5291563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7334e22330dbc4a9b329ab6f522f94
+      internalID: -952990363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-18
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3025
+        width: 1264
+        height: 1697
+      alignment: 9
+      pivot: {x: 0.45806962, y: 0.5179729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c13183c0090ab4fbdec9e6d757e454
+      internalID: -1433540571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-19
+      rect:
+        serializedVersion: 2
+        x: 4751
+        y: 4853
+        width: 1242
+        height: 1660
+      alignment: 9
+      pivot: {x: 0.46537843, y: 0.5228916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42afb40990495c54baf7704f310a816b
+      internalID: 88706041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-2
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2914
+        width: 1219
+        height: 1729
+      alignment: 9
+      pivot: {x: 0.5135357, y: 0.5199537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f96082180a8b4c925d377ecebc09a
+      internalID: 141792947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-20
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 6491
+        width: 1269
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.49014974, y: 0.5188235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b1b0ff51b93c84e98a5bc3aad9e71d
+      internalID: 1622121059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2843
+        width: 1288
+        height: 1775
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.5002817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560e75ccaae987f4495928d06e58ad78
+      internalID: 2145088441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6403
+        width: 1234
+        height: 1788
+      alignment: 9
+      pivot: {x: 0.51944894, y: 0.5027964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ecbb9ccf25394ca6bac4d317133bf
+      internalID: -1973289816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4620
+        width: 1195
+        height: 1781
+      alignment: 9
+      pivot: {x: 0.49874476, y: 0.5148793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53022e7cd878ab4a8d067543dabc95a
+      internalID: 1794300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-3
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1213
+        width: 1271
+        height: 1699
+      alignment: 9
+      pivot: {x: 0.51534224, y: 0.5226604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c29b0513735b4ba619497f81366c8
+      internalID: -2115230917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-4
+      rect:
+        serializedVersion: 2
+        x: 5982
+        y: 6541
+        width: 1247
+        height: 1650
+      alignment: 9
+      pivot: {x: 0.4915798, y: 0.5345455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0550f0adae9f44b9f559d029600398
+      internalID: -1541798893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-5
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 1506
+        width: 1236
+        height: 1627
+      alignment: 9
+      pivot: {x: 0.46521035, y: 0.5334972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd4065bd1d2f24c85e37811fe7103b
+      internalID: 1664641112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-6
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3025
+        width: 1264
+        height: 1697
+      alignment: 9
+      pivot: {x: 0.45806962, y: 0.5179729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ceb5d2d6f50b347a5300144025d1b4
+      internalID: -1814716877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-7
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 3276
+        width: 1242
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.46537843, y: 0.51854104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d9010fcd5e444bac1f746bee779d0
+      internalID: -53002411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-8
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1357
+        width: 1269
+        height: 1666
+      alignment: 9
+      pivot: {x: 0.49014974, y: 0.5090036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4557dceb3a2bde4da9baeb2ac696e58
+      internalID: -1702165445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantRoach_Walk-9
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1103
+        width: 1279
+        height: 1738
+      alignment: 9
+      pivot: {x: 0.53948396, y: 0.48964328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49552342144d3b5468a5198b912d0c58
+      internalID: 724997570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GiantRoach_Walk-11: -1888082397
+      GiantRoach_Walk-19: 88706041
+      GiantRoach_Walk-12: -1316557584
+      GiantRoach_Walk-7: -53002411
+      GiantRoach_Walk-14: 1252982569
+      GiantRoach_Walk-22: -1973289816
+      GiantRoach_Walk-3: -2115230917
+      GiantRoach_Walk-21: 2145088441
+      GiantRoach_Walk-5: 1664641112
+      GiantRoach_Walk-6: -1814716877
+      GiantRoach_Walk-10: -1959100461
+      GiantRoach_Walk-2: 141792947
+      GiantRoach_Walk-18: -1433540571
+      GiantRoach_Walk-8: -1702165445
+      GiantRoach_Walk-9: 724997570
+      GiantRoach_Walk-16: 117452216
+      GiantRoach_Walk-17: -952990363
+      GiantRoach_Walk-20: 1622121059
+      GiantRoach_Walk-13: 187835995
+      GiantRoach_Walk-1: 52109401
+      GiantRoach_Walk-15: 1123776469
+      GiantRoach_Walk-4: -1541798893
+      GiantRoach_Walk-0: -587680215
+      GiantRoach_Walk-23: 1794300390
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
